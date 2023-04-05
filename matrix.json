@@ -1,0 +1,8 @@
+{"title": "The Matrix",
+ "cast": [
+    {"job": "acted", "role": ["Emil"], "name": "Emil Eifrem"}, 
+    {"job": "acted", "role": ["Agent Smith"], "name": "Hugo Weaving"},
+    {"job": "directed", "role": null, "name": "Andy Wachowski"}, 
+    {"job": "produced", "role": null, "name": "Joel Silver"}
+    ]
+}
